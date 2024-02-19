@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine; 
+  }
+  
+  .abt {
+    display: flex;
+    margin: 20px; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    background-color: #e17a7a; 
+    float: left;
+    width: 30%; 
+  }
+  
+  .box {
+    color: black;
+    text-align: center;
+    font-weight: bold; 
+  }
+  .abt1
+  {
+    display: flex;
+    margin: 20px; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    background-color: #e17a7a; 
+    float: left;
+    width: 30%; 
+ 
+  }
+  
